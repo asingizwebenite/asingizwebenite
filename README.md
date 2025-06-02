@@ -1,16 +1,19 @@
 # I'm **Benite!**
-#I'm a ...........
-frontend developer
-backend developer
-cybersecurity Engineer
-web developer
+## 👨‍💻 Roles
+
+- 🖥️ **Frontend Developer**  
+- 🗄️ **Backend Developer**  
+- 🛡️ **Cybersecurity Engineer**  
+- 🌐 **Web Developer**
+
+---
 
 🚀 **Passionate about full-stack development, network security, and automation.**  
 ---
 
 ## 🧰 Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=yellow)  
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java&logoColor=007396)  
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=for-the-badge&logo=solidity&logoColor=363636)  
