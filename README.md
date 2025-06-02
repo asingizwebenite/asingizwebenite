@@ -25,6 +25,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php&logoColor=777BB4)
+![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2b%2b&logoColor=00599C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=express&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)
